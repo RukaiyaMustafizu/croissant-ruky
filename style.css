@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.links {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.links a {
+  margin: 0 12px;
+  color: rgb(34, 119, 43);
+}
+body {
+  background-color: rgb(245, 211, 126);
+}
+img {
+  display: block;
+  height: 550px;
+  width: 600px;
+  margin: 0 auto;
+}
+.photo-page .links a {
+  padding: 10px;
+}
